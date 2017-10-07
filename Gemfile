@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # heroku expects the Ruby version in the Gemfile
-ruby_version = File.read("./.ruby-version").chop || "2.2.3"
+ruby_version =  "2.2.3"
 ruby ruby_version
 
 gem 'sinatra',      '~> 1.4'

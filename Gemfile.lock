@@ -34,5 +34,8 @@ DEPENDENCIES
   rest-client (~> 1.7.0)
   sinatra (~> 1.4)
 
+RUBY VERSION
+   ruby 2.2.3p173
+
 BUNDLED WITH
-   1.10.6
+   1.15.4
